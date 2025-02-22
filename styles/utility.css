@@ -14,3 +14,19 @@
 .gap-16 {
   gap: 16px;
 }
+
+.text-2xl { /* text extra large (extra grande) */
+  font: var(--h1);
+}
+
+.text-xl { /* text extra large (extra grande) */
+  font: var(--h2);
+}
+
+.text-lg { /* text large (grande) */
+  font: var(--h3);
+}
+
+.text-sm { /* text small (pequeno) */
+  font: var(--text-sm);
+}
